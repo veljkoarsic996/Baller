@@ -1,0 +1,49 @@
+﻿  BasicDemo.cpp
+C:\Users\veljk\OneDrive\Desktop\CS233-PZ\Learning-Bullet-With-OpenGL-Example-code-master (1)\Learning-Bullet-With-OpenGL-Example-code-master\Chapter7.1_SpheresAndCylinders\Chapter7.1\BasicDemo.cpp(73,83): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  BulletOpenGLApplication.cpp
+C:\Users\veljk\OneDrive\Desktop\CS233-PZ\Learning-Bullet-With-OpenGL-Example-code-master (1)\Learning-Bullet-With-OpenGL-Example-code-master\Chapter7.1_SpheresAndCylinders\Chapter7.1\BulletOpenGLApplication.cpp(65,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\veljk\OneDrive\Desktop\CS233-PZ\Learning-Bullet-With-OpenGL-Example-code-master (1)\Learning-Bullet-With-OpenGL-Example-code-master\Chapter7.1_SpheresAndCylinders\Chapter7.1\BulletOpenGLApplication.cpp(150,11): warning C4244: 'initializing': conversion from 'unsigned long' to 'float', possible loss of data
+C:\Users\veljk\OneDrive\Desktop\CS233-PZ\Learning-Bullet-With-OpenGL-Example-code-master (1)\Learning-Bullet-With-OpenGL-Example-code-master\Chapter7.1_SpheresAndCylinders\Chapter7.1\BulletOpenGLApplication.cpp(464,93): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+  DebugDrawer.cpp
+  GameObject.cpp
+  main.cpp
+  Generating Code...
+BulletDynamics_vs2010_debug.lib(btDiscreteDynamicsWorld.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletDynamics_vs2010_debug.lib(btSequentialImpulseConstraintSolver.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletDynamics_vs2010_debug.lib(btGeneric6DofConstraint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletDynamics_vs2010_debug.lib(btRigidBody.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletDynamics_vs2010_debug.lib(btConeTwistConstraint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletDynamics_vs2010_debug.lib(btTypedConstraint.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btCollisionObject.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btCollisionDispatcher.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btCollisionShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btConvexShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btDefaultCollisionConfiguration.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btDbvtBroadphase.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btSimulationIslandManager.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btCollisionWorld.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btManifoldResult.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btPolyhedralConvexShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btConvexConvexAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btConvexPlaneCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btConvexConcaveCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btCompoundCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btEmptyCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btSphereSphereCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btSphereTriangleCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btBoxBoxCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btOverlappingPairCache.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btDbvt.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btUnionFind.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btBvhTriangleMeshShape.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btConvexPolyhedron.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btActivatingCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btPolyhedralContactClipping.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btCollisionAlgorithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btOptimizedBvh.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+BulletCollision_vs2010_debug.lib(btQuantizedBvh.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+LinearMath_vs2010_debug.lib(btQuickprof.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+LinearMath_vs2010_debug.lib(btGeometryUtil.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+LinearMath_vs2010_debug.lib(btConvexHullComputer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in BasicDemo.obj
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\veljk\OneDrive\Desktop\CS233-PZ\Learning-Bullet-With-OpenGL-Example-code-master (1)\Learning-Bullet-With-OpenGL-Example-code-master\Chapter7.1_SpheresAndCylinders\..\Lib\Win32Debug\Chapter7.1.exe : fatal error LNK1319: 37 mismatches detected

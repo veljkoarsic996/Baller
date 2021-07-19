@@ -1,0 +1,14 @@
+﻿  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btSerializer.cpp
+  btVector3.cpp
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\LinearMath\btPolarDecomposition.cpp(63,36): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\LinearMath\btPolarDecomposition.cpp(63,30): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\LinearMath\btPolarDecomposition.cpp(66,43): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\LinearMath\btVector3.cpp(46,51): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\LinearMath\btVector3.cpp(431,51): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+  LinearMath.vcxproj -> C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\build\vs2010\..\..\lib\LinearMath_vs2010.lib

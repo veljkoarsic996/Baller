@@ -1,0 +1,34 @@
+﻿  BasicDemo.cpp
+  BulletOpenGLApplication.cpp
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(168,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(168,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(235,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(313,82): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(313,130): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(329,69): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(355,68): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(479,57): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(482,58): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(485,58): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(488,60): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(491,60): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(584,33): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(703,31): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(804,11): warning C4244: 'initializing': conversion from 'unsigned long' to 'float', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(922,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(924,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(926,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(928,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1180,76): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1190,76): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1203,81): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\Chapter7.1\BulletOpenGLApplication.cpp(1214,93): warning C4316: 'GameObject': object allocated on the heap may not be aligned 16
+  DebugDrawer.cpp
+  GameObject.cpp
+  main.cpp
+  Generating code
+  663 of 663 functions (100.0%) were compiled.
+    20 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chapter7.1.vcxproj -> C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Baller\..\Lib\Win32Release\Baller.exe

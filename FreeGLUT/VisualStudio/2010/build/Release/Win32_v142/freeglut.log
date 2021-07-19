@@ -1,0 +1,33 @@
+﻿  freeglut_callbacks.c
+  freeglut_cursor.c
+  freeglut_display.c
+  freeglut_ext.c
+  freeglut_font.c
+  freeglut_font_data.c
+  freeglut_gamemode.c
+  freeglut_geometry.c
+  freeglut_glutfont_definitions.c
+  freeglut_init.c
+  freeglut_input_devices.c
+  freeglut_joystick.c
+  freeglut_main.c
+  freeglut_menu.c
+  freeglut_misc.c
+  freeglut_overlay.c
+  freeglut_spaceball.c
+  freeglut_state.c
+  freeglut_stroke_mono_roman.c
+  freeglut_stroke_roman.c
+  Compiling...
+  freeglut_structure.c
+  freeglut_teapot.c
+  freeglut_videoresize.c
+  freeglut_window.c
+  fgSetupPixelFormat(): there is still some work to do here!
+     Creating library ..\..\lib\x86\freeglut.lib and object ..\..\lib\x86\freeglut.exp
+  Generating code
+  304 of 304 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  freeglut.vcxproj -> C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\FreeGLUT\VisualStudio\2010\..\..\lib\x86\freeglut.dll

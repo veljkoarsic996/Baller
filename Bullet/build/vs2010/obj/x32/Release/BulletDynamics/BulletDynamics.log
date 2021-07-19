@@ -1,0 +1,28 @@
+﻿  btKinematicCharacterController.cpp
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(860,21): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(905,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(965,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(967,8): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file ..\..\src\BulletDynamics\ConstraintSolver\btContactConstraint.cpp)
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  Bullet-C-API.cpp
+  btRaycastVehicle.cpp
+  btWheelInfo.cpp
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file ..\..\src\BulletDynamics\Dynamics\btDiscreteDynamicsWorld.cpp)
+C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored. (compiling source file ..\..\src\BulletDynamics\Vehicle\btRaycastVehicle.cpp)
+  BulletDynamics.vcxproj -> C:\Users\veljk\Desktop\Development\Projekti\CS233-PZ-VeljkoArsic-2676\CS233-PZ-VeljkoArsic-2676\Baller\Bullet\build\vs2010\..\..\lib\BulletDynamics_vs2010.lib

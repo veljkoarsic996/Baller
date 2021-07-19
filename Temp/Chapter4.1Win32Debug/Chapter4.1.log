@@ -1,0 +1,32 @@
+﻿Build started 5/10/2016 6:43:39 PM.
+     1>Project "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\Chapter4.1\Chapter4.1.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\Chapter4.1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\Chapter4.1\..\..\Bullet\src" /I"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\Chapter4.1\..\..\FreeGLUT\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\\" /Fd"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BasicDemo.cpp BulletOpenGLApplication.cpp GameObject.cpp main.cpp
+         main.cpp
+         GameObject.cpp
+         BulletOpenGLApplication.cpp
+     1>c:\users\jchen114\documents\learning game physics examples\chapter4.1_handlingmultipleobjects\chapter4.1\bulletopenglapplication.cpp(64): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\jchen114\documents\learning game physics examples\chapter4.1_handlingmultipleobjects\chapter4.1\bulletopenglapplication.cpp(64): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\jchen114\documents\learning game physics examples\chapter4.1_handlingmultipleobjects\chapter4.1\bulletopenglapplication.cpp(64): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\jchen114\documents\learning game physics examples\chapter4.1_handlingmultipleobjects\chapter4.1\bulletopenglapplication.cpp(122): warning C4244: 'initializing' : conversion from 'unsigned long' to 'float', possible loss of data
+         BasicDemo.cpp
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Lib\Win32Debug\Chapter4.1.exe" /NOLOGO /LIBPATH:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\Chapter4.1\..\..\Bullet\lib" /LIBPATH:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\Chapter4.1\..\..\FreeGLUT\lib\x86\Debug" opengl32.lib freeglut.lib BulletDynamics_vs2010_debug.lib BulletCollision_vs2010_debug.lib LinearMath_vs2010_debug.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\Chapter4.1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Lib\Win32Debug\Chapter4.1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Lib\Win32Debug\Chapter4.1.lib" /MACHINE:X86 "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\BasicDemo.obj"
+         "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\BulletOpenGLApplication.obj"
+         "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\GameObject.obj"
+         "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\main.obj"
+     1>LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Chapter4.1.vcxproj -> C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Lib\Win32Debug\Chapter4.1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Lib\Win32Debug\Chapter4.1.exe;#1" /manifest "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\Chapter4.1.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\Chapter4.1.unsuccessfulbuild".
+         Touching "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\..\Temp\Chapter4.1Win32Debug\Chapter4.1.lastbuildstate".
+     1>Done Building Project "C:\Users\jchen114\Documents\Learning Game Physics Examples\Chapter4.1_HandlingMultipleObjects\Chapter4.1\Chapter4.1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.06
